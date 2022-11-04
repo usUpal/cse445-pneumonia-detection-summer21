@@ -1,4 +1,4 @@
-# cse445-pneumonia-detection-summer2
+# cse445-pneumonia-detection-summer'21
 
 ```python
 group2{
